@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: otherpackage.MyClient
+Created-By: 13-ea (Oracle Corporation)
+
