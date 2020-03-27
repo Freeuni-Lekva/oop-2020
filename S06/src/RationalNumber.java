@@ -39,6 +39,7 @@ public class RationalNumber {
             numerator = n;
             denominator = d;
         }
+        numerator = 5;
         checkRepresentation();
     }
 
