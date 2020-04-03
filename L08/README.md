@@ -7,4 +7,5 @@
   * Introduces BinaryOpNode in the hierarchy and PlusNode, MinusNode, ... classes inherit from it.
     * This removes code duplication from constructors
     * Also implements toString method which delegates getting operator character to subclasses
-    * And evaluate method which delegates actual evaluation to new abstract doEvaluate method 
+    * And evaluate method which delegates actual evaluation to new abstract doEvaluate method
+  * Replaces DoubleValue and IntValue nodes with single generic ValueNode  
