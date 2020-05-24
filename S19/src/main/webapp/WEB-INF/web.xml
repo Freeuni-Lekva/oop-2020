@@ -2,17 +2,25 @@
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
-<web-app>
+<web-app xmlns="java.sun.com/xml/ns/javaee" xmlns:xsi="w3.org/2001/XMLSchema-instance" xsi:schemaLocation="java.sun.com/xml/ns/javaee java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
   <display-name>Archetype Created Web Application</display-name>
 
   <servlet>
     <servlet-name>hello-servlet</servlet-name>
     <servlet-class>HelloServlet</servlet-class>
   </servlet>
+  <servlet>
+    <servlet-name>forward-jsp-servlet</servlet-name>
+    <servlet-class>ForwardJSP</servlet-class>
+  </servlet>
 
 
   <servlet-mapping>
     <servlet-name>hello-servlet</servlet-name>
-    <url-pattern>/</url-pattern>
+    <url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>forward-jsp-servlet</servlet-name>
+    <url-pattern>/forward-jsp</url-pattern>
   </servlet-mapping>
 </web-app>
