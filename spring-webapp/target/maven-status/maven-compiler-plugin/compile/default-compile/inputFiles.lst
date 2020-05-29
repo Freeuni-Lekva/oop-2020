@@ -1,0 +1,12 @@
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/interceptor/AuthInterceptor.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/controller/AuthenticationController.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/controller/RegistrationController.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/model/Note.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/SqlUserDao.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/InMemoryUserDao.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/InMemoryNoteDao.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/UserDao.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/SqlNoteDao.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/controller/NotesController.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/model/User.java
+/Users/lekva/teach/freeuni/oop/seminars/seminar19/spring-webapp/src/main/java/ge/edu/freeuni/dao/NoteDao.java

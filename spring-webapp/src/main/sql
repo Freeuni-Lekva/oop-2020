@@ -1,0 +1,19 @@
+root
+12345678
+
+create database notesapp;
+use notesapp;
+
+CREATE TABLE users (
+    username VARCHAR(50) NOT NULL,
+    password VARCHAR(50) NOT NULL,
+    CONSTRAINT unique_username UNIQUE (username),
+    PRIMARY KEY (username)
+);
+
+CREATE TABLE notes (
+    id int NOT NULL AUTO_INCREMENT,
+    username VARCHAR(50) NOT NULL,
+    text VARCHAR(1000) NOT NULL,
+    PRIMARY KEY (id)
+);
