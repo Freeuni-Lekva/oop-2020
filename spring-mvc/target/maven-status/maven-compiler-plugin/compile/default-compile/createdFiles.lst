@@ -1,0 +1,6 @@
+freeuni\DummyDB.class
+freeuni\repository\EmployeeRepository.class
+freeuni\model\Employee.class
+freeuni\service\EmployeeManager.class
+freeuni\service\EmployeeManagerBean.class
+freeuni\controller\EmployeeController.class
